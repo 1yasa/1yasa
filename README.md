@@ -91,7 +91,9 @@ Three fields I have extensive experience:
 
 ## 🚀 Seeking opportunities
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='left' width="140" height="140" />
+
+> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="120" height="120" /> 
+
 
 > [!IMPORTANT]
 > I'm seeking for opportunities.
