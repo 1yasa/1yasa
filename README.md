@@ -102,5 +102,7 @@ These fields I have extensive experience:
 ![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
 [![1yasa](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
+[![Zhihu](https://img.shields.io/badge/Zhihu-2196F3?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xiewendao)
+[![Juejin](https://img.shields.io/badge/Juejin-03A9F4?logo=juejin&logoColor=white)](https://juejin.cn/user/1750078239814263)
 ![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
 
