@@ -1,4 +1,4 @@
-### 👋 I'm 1yasa
+## 👋 I'm 1yasa
 
 A web developer, designer and a product maker. Here is **his** credits:
 
@@ -6,7 +6,7 @@ A web developer, designer and a product maker. Here is **his** credits:
 - [IF](https://if.openages.com/) A local-first productivity tool for GTD (Based on React, MobX, Ant Deisng, Electron and Trpc).
 - [AI SDK Panel](https://stack.matrixages.com/ai-sdk-panel) LLM providers editor for ai apps (Based Base-ui, Tailwind.css, React-Hook-Form and Valtio).
 
-### 💅 My Stacks
+## 💅 My Stacks
 
 I use these technologies to bring some of my product ideas to life:
 
@@ -89,14 +89,14 @@ Three fields I have extensive experience:
 - Editor (Lexical/Tiptap)
 - Electron
 
-### 🚀 Seeking opportunities
+## 🚀 Seeking opportunities
 
 > [!IMPORTANT]
 > I'm seeking for opportunities.
 > 
 > With **7 years** of experience in product design and development, I'm a full-stack engineer specializing in `design`, `front-end`, and `Node.js`. I'm actively seeking remote collaboration opportunities, committed to providing solutions for your product, from the ground up, and scaling it to new heights.
 
-### Contact
+## Contact
 
 ![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
