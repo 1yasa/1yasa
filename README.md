@@ -83,7 +83,7 @@ I use these technologies to bring some of my product ideas to life:
   </tbody>
 </table>
 
-Three fields I have extensive experience:
+These fields I have extensive experience:
 
 - React performance optimization
 - Low/Zero Code
