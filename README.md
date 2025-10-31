@@ -3,7 +3,7 @@
 A web developer, designer and a product maker. Here is **his** credits:
 
 - [YAO](https://yaoapps.com/) 7k+ star full-stack low-code platform, I'm Co-founder, Head of Frontend (Based on React, MobX, Ant Design and Go).
-- [IF](https://if.openages.com/) A local-first productivity tool for GTD (Based on React, MobX, Ant Deisng, Electron and Trpc).
+- [IF](https://if.openages.com/) A local-first productivity tool for GTD (Based on React, MobX, Ant Design, Electron and Trpc).
 - [AI SDK Panel](https://stack.matrixages.com/ai-sdk-panel) LLM providers editor for ai apps (Based Base-ui, Tailwind.css, React-Hook-Form and Valtio).
 
 ## 💅 My Stacks
