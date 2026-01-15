@@ -32,6 +32,7 @@ I use these technologies to bring some of my product ideas to life:
     <tr>
       <td>Framework</td>
       <td>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-29b6f6?logo=flutter&logoColor=white">
         <img alt="React" src="https://img.shields.io/badge/React-0092b8?logo=react&logoColor=white">
         <img alt="Vue" src="https://img.shields.io/badge/Vue-00a63e?logo=vue.js&logoColor=white">
         <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white">
@@ -65,6 +66,7 @@ I use these technologies to bring some of my product ideas to life:
     <tr>
       <td>Platform</td>
       <td>
+        <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white">
         <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white">
         <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-fd9a00?logo=cloudflare&logoColor=white">
         <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-f54a00?logo=ubuntu&logoColor=white">
@@ -90,14 +92,14 @@ These fields I have extensive experience:
 - Editor (Lexical/Tiptap)
 - Electron
 
-<!--
+
 ## 🚀 Seeking opportunities
 
-> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="120" height="120" /> 
+> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="100" height="100" /> 
 
 > [!IMPORTANT]
-> I'm seeking for opportunities. With **7 years** of experience in product design and development, I'm a full-stack engineer specializing in `design`, `front-end`, and `Node.js`. I'm actively seeking remote collaboration opportunities, committed to providing solutions for your product, from the ground up, and scaling it to new heights.
--->
+> I'm seeking for opportunities. With **7 years** of experience in product design and development, I'm a full-stack engineer specializing in `design`, `front-end`, and `Node.js`. I'm actively seeking fulltime remote job.
+
 
 ## Contact
 
