@@ -95,7 +95,7 @@ These fields I have extensive experience:
 
 ## 🚀 Seeking opportunities
 
-> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="40" height="40" /> 
+> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
 
 > [!IMPORTANT]
 > Seeking for opportunities. With **7 years** of experience in product design and development.
