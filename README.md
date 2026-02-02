@@ -1,6 +1,6 @@
 ## 👋 I'm 1yasa
 
-A web developer, designer and a product maker. Here is **his** credits:
+Research engineer and a product maker. Here is **his** credits:
 
 - [YAO](https://yaoapps.com/) 7k+ star full-stack low-code platform, I'm Co-founder, Head of Frontend (Based on React, MobX, Ant Design and Go).
 - [IF](https://if.openages.com/) A local-first productivity tool for GTD (Based on React, MobX, Ant Design, Electron and Trpc).
@@ -95,10 +95,10 @@ These fields I have extensive experience:
 
 ## 🚀 Seeking opportunities
 
-> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="100" height="100" /> 
+> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="40" height="40" /> 
 
 > [!IMPORTANT]
-> I'm seeking for opportunities. With **7 years** of experience in product design and development, I'm a full-stack engineer specializing in `design`, `front-end`, and `Node.js`. I'm actively seeking fulltime remote job.
+> Seeking for opportunities. With **7 years** of experience in product design and development.
 
 
 ## Contact
