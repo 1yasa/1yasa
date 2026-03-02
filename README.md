@@ -14,6 +14,7 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 
 - ◑ **[polywise](https://polywise.io)** - Your AI Digital Twins, a self-hosted platform for building
 - ➡️ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
+- 🔧 **[prettier-plugin-tailwindcss-pro](https://github.com/MatrixAges/prettier-plugin-tailwindcss-pro)** - Prettier plugin to format tailwind className
 
 ### Legacy Work
 
