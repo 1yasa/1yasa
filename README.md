@@ -2,13 +2,18 @@
 
 An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singing, dancing, or rapping type. Enjoying Deep coding with AI...
 
+[![XWD](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
+![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
+![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
+![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
+
 > Die-hard fan of management sims and 4X games: Civilization VI, Tropico, Timberborn, Oxygen Not Included, Total War: Three Kingdoms, and Age of Empires IV.
 > My goal in building this product is for my own use, and then for sharing.
 
 ## Current Projects
 
 - ◑ **[polywise](https://polywise.io)** - Your AI Digital Twins, a self-hosted platform for building
-- ◑ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
+- ➡️ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
 
 ### Legacy Work
 
@@ -105,18 +110,6 @@ I use these technologies to bring some of my product ideas to life:
     </tr>
   </tbody>
 </table>
-
-## Contact
-
-[![1yasa](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
-![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
-![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
-![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
-
-<!--
-[![Zhihu](https://img.shields.io/badge/Zhihu-2196F3?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xiewendao)
-[![Juejin](https://img.shields.io/badge/Juejin-03A9F4?logo=juejin&logoColor=white)](https://juejin.cn/user/1750078239814263)
--->
 
 <details>
 <summary>Random Facts</summary>
