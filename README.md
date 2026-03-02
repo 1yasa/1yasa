@@ -5,7 +5,7 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 [![XWD](https://img.shields.io/badge/xiewendao-222?logo=x&logoColor=white)](https://x.com/xiewendao)
 ![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
-![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
+![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=eee)
 
 > Die-hard fan of management sims and 4X games: Civilization VI, Tropico, Timberborn, Oxygen Not Included, Total War: Three Kingdoms, and Age of Empires IV.
 > My goal in building this product is for my own use, and then for sharing.
