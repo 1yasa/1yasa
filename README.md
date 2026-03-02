@@ -10,6 +10,8 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 > Die-hard fan of management sims and 4X games: Civilization VI, Tropico, Timberborn, Oxygen Not Included, Total War: Three Kingdoms, and Age of Empires IV.
 > My goal in building this product is for my own use, and then for sharing.
 
+🏠 **[matrixages.com](https://matrixages.com)** - Opinions are my own.
+
 ### Current Projects
 
 - ◑ **[polywise](https://polywise.io)** - Your AI Digital Twins, a self-hosted platform for building agentic agents
