@@ -1,10 +1,31 @@
 ## 👋 I'm 1yasa
 
-Research engineer and a product maker. Here is **his** credits:
+An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singing, dancing, or rapping type. Enjoying Deep coding with AI...
 
-- [YAO](https://yaoapps.com/) 7k+ star full-stack low-code platform, I'm Co-founder, Head of Frontend (Based on React, MobX, Ant Design and Go).
-- [IF](https://if.openages.com/) A local-first productivity tool for GTD (Based on React, MobX, Ant Design, Electron and Trpc).
-- [AI SDK Panel](https://stack.matrixages.com/ai-sdk-panel) LLM providers editor for ai apps (Based Base-ui, Tailwind.css, React-Hook-Form and Valtio).
+> Die-hard fan of management sims and 4X games: Civilization VI, Tropico, Timberborn, Oxygen Not Included, Total War: Three Kingdoms, and Age of Empires IV.
+> My goal in building this product is for my own use, and then for sharing.
+
+## Current Projects
+
+- ◑ **[polywise](https://polywise.io)** - Your AI Digital Twins, a self-hosted platform for building
+- ◑ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
+
+### Legacy Work
+
+- ☑️ **[if](https://if.openages.com/)** - A local-first productivity tool for GTD
+- ⚙️ **[ai-sdk-panel](https://stack.matrixages.com/ai-sdk-panel)** - LLM providers editor for AI apps
+- 🧱 **[yao](https://yaoapps.com/)** - Full-stack low-code platform, as a Co-founder, head of frontend, chief designer
+- 📝 **[testool](https://openages.github.io/testool/)** - A efficient tool for the test & interview & exam
+- 🗂️ **[css-sorting](https://github.com/openages/css-sorting)** - VSCode extension to sort your css attributes
+- 🧩 **[light design](https://github.com/openages/light-design)** - Probably the most beautiful wxapp component library
+- 🎨 **[atom.css](https://openages.github.io/atom.css/#/)** - A atom-style library of CSS atomic elements
+
+
+> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
+
+> [!IMPORTANT]
+> **OPEN TO WORK** : I'm seeking better roles with **6 years** of experience as a product maker.
+
 
 ## 💅 My Stacks
 
@@ -85,31 +106,21 @@ I use these technologies to bring some of my product ideas to life:
   </tbody>
 </table>
 
-These fields I have extensive experience:
-
-- React performance optimization
-- Low/Zero Code
-- Editor (Lexical/Tiptap)
-- Electron
-
-
-## 🚀 Seeking opportunities
-
-> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
-
-> [!IMPORTANT]
-> I'm seeking for opportunities with **7 years** of experience in product design and development.
-
-
 ## Contact
 
+[![1yasa](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
 ![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
 ![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
 
 <!--
-[![1yasa](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
 [![Zhihu](https://img.shields.io/badge/Zhihu-2196F3?logo=zhihu&logoColor=white)](https://www.zhihu.com/people/xiewendao)
 [![Juejin](https://img.shields.io/badge/Juejin-03A9F4?logo=juejin&logoColor=white)](https://juejin.cn/user/1750078239814263)
 -->
 
+<details>
+<summary>Random Facts</summary>
+
+- Treat AI agents as "slot machines for programmers"
+- Run 3-6 Claude instances concurrently
+</details>
