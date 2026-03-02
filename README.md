@@ -1,4 +1,4 @@
-## 👋 I'm 1yasa
+## 👋 I'm XWD
 
 An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singing, dancing, or rapping type. Enjoying Deep coding with AI...
 
@@ -10,11 +10,11 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 > Die-hard fan of management sims and 4X games: Civilization VI, Tropico, Timberborn, Oxygen Not Included, Total War: Three Kingdoms, and Age of Empires IV.
 > My goal in building this product is for my own use, and then for sharing.
 
-## Current Projects
+### Current Projects
 
 - ◑ **[polywise](https://polywise.io)** - Your AI Digital Twins, a self-hosted platform for building
 - ➡️ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
-- 🔧 **[prettier-plugin-tailwindcss-pro](https://github.com/MatrixAges/prettier-plugin-tailwindcss-pro)** - Prettier plugin to format tailwind className
+- ♻️ **[prettier-plugin-tailwindcss-pro](https://github.com/MatrixAges/prettier-plugin-tailwindcss-pro)** - Prettier plugin to format tailwind className
 
 ### Legacy Work
 
@@ -26,11 +26,12 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 - 🧩 **[light design](https://github.com/openages/light-design)** - Probably the most beautiful wxapp component library
 - 🎨 **[atom.css](https://openages.github.io/atom.css/#/)** - A atom-style library of CSS atomic elements
 
+## Open to work
 
 > <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
 
 > [!IMPORTANT]
-> **OPEN TO WORK** : I'm seeking better roles with **6 years** of experience as a product maker.
+> I'm seeking better roles with **6 years** of experience as a product maker.
 
 
 ## 💅 My Stacks
