@@ -2,7 +2,7 @@
 
 An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singing, dancing, or rapping type. Enjoying Deep coding with AI...
 
-[![XWD](https://img.shields.io/badge/1yasa-000?logo=x&logoColor=white)](https://x.com/iyasa_hq)
+[![XWD](https://img.shields.io/badge/xiewendao-222?logo=x&logoColor=white)](https://x.com/xiewendao)
 ![Gmail](https://img.shields.io/badge/xiewendao@gmail.com-2b7fff?logo=gmail&logoColor=white)
 ![WeChat](https://img.shields.io/badge/Mrhehero-00c951?logo=wechat&logoColor=white)
 ![View Counts](https://komarev.com/ghpvc/?username=1yasa&base=126003&color=000000)
