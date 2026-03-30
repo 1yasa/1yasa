@@ -34,7 +34,7 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 > <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
 
 > [!IMPORTANT]
-> I'm seeking better roles with **6 years** of experience as a product maker.
+> I'm seeking a remote job with **6 years** of experience as a product maker.
 
 
 ## 💅 My Stacks
