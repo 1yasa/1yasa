@@ -14,7 +14,7 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 
 ### Current Projects
 
-- ◑ **[polywise](https://polywise.io)** - human <=> agents <=> memory|wiki|link, meta system for agents.
+- ◑ **[polywise](https://polywise.io)** - human <=> agents <=> memory|wiki|link, agents powered for every decision.
 - ➡️ **[ai-mode-copy](https://chromewebstore.google.com/detail/ai-mode-copy/ikbmljkkgidfamghpmgfbljabjjajeia)** - A Chrome extension to copy the Google AI Mode response to md
 - ♻️ **[prettier-plugin-tailwindcss-pro](https://github.com/MatrixAges/prettier-plugin-tailwindcss-pro)** - Prettier plugin to format tailwind className
 - 📅 **[SpotTime](https://apps.apple.com/us/app/spottime-ai-task-time-insight/id6757924837)** - Task and time insight for ADHDers, native ios app for macos and ios, created by vibe coding
