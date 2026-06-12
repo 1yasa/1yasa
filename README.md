@@ -29,13 +29,6 @@ An "entrepreneurial trainee" with a 7.5-year track record. Not exactly the singi
 - 🧩 **[light design](https://github.com/openages/light-design)** - Probably the most beautiful wxapp component library
 - 🎨 **[atom.css](https://openages.github.io/atom.css/#/)** - A atom-style library of CSS atomic elements
 
-## Open to work
-
-> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right' width="80" height="80" /> 
-
-> [!IMPORTANT]
-> I'm seeking a remote job with **6 years** of experience as a product maker.
-
 
 ## 💅 My Stacks
 
